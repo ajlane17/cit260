@@ -15,7 +15,7 @@
         // variables
         int userInt;
         String firstName;
-        String welcomeMessage = "\nThis program reverses a first and last name.\n";
+        String welcomeMessage = "\nThis program reverses a first name and repeats it.\n";
         String namePrompt = "\nPlease enter your first name:";
         String intPrompt = "\nPlease enter a number:";
 
